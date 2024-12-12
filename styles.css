@@ -64,6 +64,18 @@ body {
     margin-top: 0;
 }
 
+.articles p {
+    color: white;
+    font-size: 50px; /* Sesuaikan ukuran font */
+    margin-top: 0;
+}
+
+.promo p {
+    color: white;
+    font-size: 50px; /* Sesuaikan ukuran font */
+    margin-top: 0;
+}
+
 .hero-text h1 {
     color: #6689CC;
     font-size: 70px;
